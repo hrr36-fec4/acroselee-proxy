@@ -1,3 +1,4 @@
+
 # Project Name
 
 > Project description
@@ -36,4 +37,3 @@ From within the root directory:
 npm install -g webpack
 npm install
 ```
-
